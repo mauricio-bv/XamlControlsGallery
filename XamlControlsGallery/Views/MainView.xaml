@@ -29,7 +29,7 @@
       <TabItem Header="Overview">
         <pages:OverviewPage />
       </TabItem>
-      <TabItem Header="Basic Input">
+      <TabItem Header="Basic Input 2">
         
       </TabItem>
       <TabItem Header="Collections">
